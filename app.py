@@ -26,4 +26,4 @@ if user_question:
     if question in questions:
         st.success(questions[question])
     else:
-        st.info("Sorry, I don't have
+        st.info("Sorry, I don't have an answer for that question yet.")
