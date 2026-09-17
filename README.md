@@ -1,34 +1,34 @@
-
 # 🤖 AI FAQ Chatbot
 
-An interactive AI-based FAQ chatbot built using **Python and Streamlit**.  
-The chatbot allows users to ask questions related to **Artificial Intelligence and Machine Learning** and provides suitable answers.
+An interactive AI-based FAQ Chatbot built using Python and Streamlit.
 
-## 🚀 Project Overview
+## 🚀 Live Demo
 
-This project is designed as an FAQ chatbot that provides quick answers to common AI and ML questions.
+👉 https://ruthusha-portfolio-xtycxmj6kn3stfadrqx3go.streamlit.app/
 
-The chatbot has a simple and user-friendly interface created using Streamlit.
+## 📌 Project Overview
+
+This project is an AI-based FAQ chatbot that answers common questions related to Artificial Intelligence and Machine Learning.
+
+The application provides a simple and user-friendly interface where users can enter questions and receive relevant answers.
 
 ## ✨ Features
 
-- 🤖 Interactive chatbot interface
-- 💬 User can enter AI/ML questions
-- 🧠 Provides answers to predefined FAQs
-- ⚡ Fast response
-- 🎨 Simple and user-friendly Streamlit UI
-- 📱 Can be accessed through a web browser
+- 🤖 AI FAQ Chatbot
+- 💬 Interactive question input
+- 🧠 Answers AI and ML related questions
+- ⚡ Quick responses
+- 🎨 Simple Streamlit interface
+- 🌐 Live web application
 
 ## 🛠️ Technologies Used
 
-- **Python**
-- **Streamlit**
-- **Artificial Intelligence**
-- **Machine Learning**
+- Python
+- Streamlit
+- Artificial Intelligence
+- Machine Learning
 
 ## 📚 Sample Questions
-
-You can ask questions such as:
 
 - What is AI?
 - What is Machine Learning?
@@ -39,9 +39,34 @@ You can ask questions such as:
 
 ## 📂 Project Structure
 
-```text
 AI-FAQ-Chatbot/
 │
 ├── app.py
 └── README.md
-live demo:https://ruthusha-portfolio-xtycxmj6kn3stfadrqx3go.streamlit.app/
+
+## ▶️ Run Locally
+
+Install Streamlit:
+
+    pip install streamlit
+
+Run the application:
+
+    streamlit run app.py
+
+## 🎯 Objective
+
+The objective of this project is to develop a simple and interactive chatbot that provides answers to frequently asked questions related to AI and Machine Learning.
+
+## 👩‍💻 Developer
+
+**Kurthipudi Ruthusha**
+
+B.Tech – Artificial Intelligence & Machine Learning  
+Kakatiya Institute of Technology and Science for Women
+
+## 📌 Internship Project
+
+Developed as part of an Artificial Intelligence internship project.
+
+⭐ If you find this project useful, feel free to explore the repository!
